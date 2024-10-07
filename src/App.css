@@ -1,0 +1,8 @@
+.table{
+    width: 700px !important;
+
+}
+
+td,tr{
+    width: 300px;
+}
